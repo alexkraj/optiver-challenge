@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "artificial-disposition",
+   "id": "opponent-layout",
    "metadata": {},
    "outputs": [
     {
@@ -29,7 +29,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "convenient-wages",
+   "id": "related-necessity",
    "metadata": {},
    "outputs": [
     {
@@ -48,7 +48,7 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "emerging-interview",
+   "id": "corresponding-teaching",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -59,7 +59,7 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "ideal-dodge",
+   "id": "quiet-window",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -74,7 +74,7 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "national-appliance",
+   "id": "advanced-minute",
    "metadata": {},
    "outputs": [
     {
@@ -93,7 +93,7 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "confidential-sword",
+   "id": "informed-finish",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -108,7 +108,7 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "dietary-kidney",
+   "id": "generous-eight",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -122,7 +122,7 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "timely-negotiation",
+   "id": "convinced-experiment",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -142,7 +142,7 @@
   {
    "cell_type": "code",
    "execution_count": 340,
-   "id": "forty-gardening",
+   "id": "sexual-wings",
    "metadata": {},
    "outputs": [
     {
@@ -160,7 +160,7 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "supposed-meaning",
+   "id": "former-leadership",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -171,7 +171,7 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "sexual-limit",
+   "id": "material-number",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -216,7 +216,7 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "later-polymer",
+   "id": "enabling-cabin",
    "metadata": {},
    "outputs": [
     {
@@ -235,7 +235,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "rotary-shooting",
+   "id": "competitive-yacht",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -243,7 +243,7 @@
   {
    "cell_type": "code",
    "execution_count": 82,
-   "id": "postal-software",
+   "id": "american-alexandria",
    "metadata": {},
    "outputs": [
     {
@@ -269,7 +269,7 @@
   {
    "cell_type": "code",
    "execution_count": 77,
-   "id": "veterinary-simulation",
+   "id": "enabling-blink",
    "metadata": {},
    "outputs": [
     {
@@ -291,17 +291,17 @@
     }
    ],
    "source": [
-    "current_position = e.get_positions_and_cash()\n",
-    "volume_left = current_position[philips_a]['volume']\n",
-    "print(volume_left)\n",
-    "best_sell = best_buying_price(philips_b)\n",
-    "e.insert_order(philips_b, price=best_sell, volume=200, order_type='limit', side='bid')"
+    "#current_position = e.get_positions_and_cash()\n",
+    "#volume_left = current_position[philips_a]['volume']\n",
+    "#print(volume_left)\n",
+    "#best_sell = best_buying_price(philips_b)\n",
+    "#e.insert_order(philips_b, price=best_sell, volume=200, order_type='limit', side='bid')"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 84,
-   "id": "sound-plymouth",
+   "id": "bibliographic-blood",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -314,7 +314,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "designing-conclusion",
+   "id": "effective-jenny",
    "metadata": {},
    "outputs": [
     {
@@ -1250,7 +1250,141 @@
       "Buying 1 B at price 68.5 ****** Expect to sell at 68.84562737642587\n",
       "Buying 1 B at price 68.5 ****** Expect to sell at 68.84518987341772\n",
       "Buying 1 B at price 68.5 ****** Expect to sell at 68.84475347661188\n",
-      "Buying 6 B at price 68.3 ****** Expect to sell at 68.84431818181818\n"
+      "Buying 6 B at price 68.3 ****** Expect to sell at 68.84431818181818\n",
+      "Buying 9 B at price 68.2 ****** Expect to sell at 68.84022556390978\n",
+      "Buying 7 B at price 68.2 ****** Expect to sell at 68.83308550185873\n",
+      "New PNL : 21.69999999999709\n",
+      "Updated Weights A=68.05540540540541 B=68.82764127764128\n",
+      "\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 7 B at price 68.10000000000001 ****** Expect to sell at 68.82764127764128\n",
+      "Buying  1 A at price 68.0\n",
+      "Buying 12 B at price 67.9 ****** Expect to sell at 68.82143727161997\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 10 B at price 67.9 ****** Expect to sell at 68.80816326530612\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 7 B at price 68.0 ****** Expect to sell at 68.79739027283512\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 9 B at price 67.9 ****** Expect to sell at 68.79082352941177\n",
+      "Buying 9 B at price 67.9 ****** Expect to sell at 68.781490104773\n",
+      "Buying  1 A at price 68.0\n",
+      "Buying 6 B at price 68.0 ****** Expect to sell at 68.77235023041474\n",
+      "Buying  1 A at price 68.0\n",
+      "Buying 4 B at price 68.10000000000001 ****** Expect to sell at 68.76704805491993\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 6 B at price 68.0 ****** Expect to sell at 68.76400911161731\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 6 B at price 68.0 ****** Expect to sell at 68.75882352941177\n",
+      "New PNL : -21.699999999989814\n",
+      "Updated Weights A=68.02657342657342 B=68.75370786516854\n",
+      "\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 6 B at price 68.0 ****** Expect to sell at 68.75370786516854\n",
+      "Buying  1 A at price 67.9\n",
+      "Buying 5 B at price 68.0 ****** Expect to sell at 68.74866071428572\n",
+      "Buying  1 A at price 67.8\n",
+      "Buying 7 B at price 67.9 ****** Expect to sell at 68.74450610432852\n",
+      "Buying  1 A at price 67.8\n",
+      "Buying 7 B at price 67.9 ****** Expect to sell at 68.73799559471367\n",
+      "Buying  1 A at price 67.8\n",
+      "Buying 8 B at price 67.8 ****** Expect to sell at 68.73158469945355\n",
+      "Buying  1 A at price 67.8\n",
+      "Buying 8 B at price 67.8 ****** Expect to sell at 68.72351029252438\n",
+      "Buying  1 A at price 67.8\n",
+      "Buying 6 B at price 67.9 ****** Expect to sell at 68.715574650913\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying 9 B at price 67.7 ****** Expect to sell at 68.71035218783351\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying 9 B at price 67.7 ****** Expect to sell at 68.70073995771669\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying 8 B at price 67.7 ****** Expect to sell at 68.69130890052355\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  2 A at price 67.5\n",
+      "Buying  2 A at price 67.5\n",
+      "Buying  2 A at price 67.5\n",
+      "Buying  2 A at price 67.5\n",
+      "New PNL : 13.999999999996362\n",
+      "Updated Weights A=67.91420765027321 B=68.68307372793353\n",
+      "\n",
+      "Buying  2 A at price 67.5\n",
+      "Buying  2 A at price 67.5\n",
+      "Buying  2 A at price 67.5\n",
+      "Buying  1 A at price 67.5\n",
+      "Buying  1 A at price 67.5\n",
+      "Buying  1 A at price 67.5\n",
+      "Buying  1 A at price 67.5\n",
+      "Buying  1 A at price 67.5\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "New PNL : -36.29999999999927\n",
+      "Updated Weights A=67.85779967159277 B=68.68307372793353\n",
+      "\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "New PNL : 39.89999999999782\n",
+      "Updated Weights A=67.82648809523809 B=68.68307372793353\n",
+      "\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "New PNL : -34.90000000000509\n",
+      "Updated Weights A=67.80517006802721 B=68.68307372793353\n",
+      "\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "New PNL : 3.637978807091713e-12\n",
+      "Updated Weights A=67.79185463659148 B=68.68307372793353\n",
+      "\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.60000000000001\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "New PNL : 0.2999999999992724\n",
+      "Updated Weights A=67.77816492450638 B=68.68307372793353\n",
+      "\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "New PNL : 3.637978807091713e-12\n",
+      "Updated Weights A=67.76926406926407 B=68.68307372793353\n",
+      "\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n",
+      "Buying  1 A at price 67.7\n"
      ]
     }
    ],
@@ -1362,7 +1496,7 @@
   {
    "cell_type": "code",
    "execution_count": 92,
-   "id": "chief-memphis",
+   "id": "graphic-divide",
    "metadata": {},
    "outputs": [
     {
@@ -1447,7 +1581,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "aerial-climate",
+   "id": "independent-password",
    "metadata": {},
    "outputs": [],
    "source": []
